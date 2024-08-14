@@ -12,9 +12,7 @@ Bu proje, JavaScript kullanılarak geliştirilmiş, temel ve ileri düzey matema
 - Sonuçları anında görüntüleme
 - Tüm hesaplamayı sıfırlama (`C`)
 
-## Ekran Görüntüleri
 
-![Hesap Makinesi Ekran Görüntüsü](path-to-screenshot.png)
 
 ## Kullanılan Teknolojiler
 
