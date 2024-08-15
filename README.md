@@ -27,4 +27,4 @@ Projeyi yerel bilgisayarınıza klonlayarak veya zip dosyası olarak indirerek �
 ### 1. Repozitory'yi Klonlayın
 
 ```bash
-git clone https://github.com/kullaniciadi/gelismis-hesap-makinesi.git
+git clone https://github.com/ghhsyn/gelismis-hesap-makinesi.git
